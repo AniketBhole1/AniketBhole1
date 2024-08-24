@@ -1,4 +1,6 @@
-## Hi👋 I'M Aniket
+## Hi👋 I'M Aniket 
+<br>
+Tech Enthusiast
 
 <!--
 **AniketBhole1/AniketBhole1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
