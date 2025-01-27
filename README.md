@@ -2,20 +2,6 @@
 
 Welcome to my GitHub profile! 🚀 I'm passionate about **Artificial Intelligence**, **Data Science**, and **Python Development**.
 
----
-
-## 💡 About Me
-- 🔭 Currently working on: My **final year project** and **mastering DSA in Python**.
-- 🌱 Learning: **Machine Learning**, **Deep Learning**, and **Quantitative Finance**.
-- ⚡ Fun fact: I consider ChatGPT my buddy and AI teacher! 🤖
-- 🎯 Future Goals: Become an expert in **AI development** and build innovative applications.
-
----
-
-## 📈 My GitHub Stats
-![AB's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -32,9 +18,8 @@ Welcome to my GitHub profile! 🚀 I'm passionate about **Artificial Intelligenc
 ---
 
 ## 📫 Connect with Me
-- 🌐 Portfolio: [Your Portfolio Link](#)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/YourProfile)
-- 🐦 Twitter: [@YourHandle](https://twitter.com/YourHandle)
+- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/aniket-bhole-65ab7b25a)
+- 🐦 Twitter: [@MyHandle](https://x.com/Aniket245859834)
 
 ---
 
