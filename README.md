@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm AB
 
-Welcome to my GitHub profile! 🚀 I'm passionate about **Artificial Intelligence**, **Data Science**, and **Python Development**.
+Welcome to my GitHub profile! 🚀 I'm passionate about **Artificial Intelligence**, **Data Science**, and **Web Development**.
 
 
 ---
