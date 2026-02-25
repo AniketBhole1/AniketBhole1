@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm AB
+# Hi there! 👋 I'm Aniket Bhole(AB)
 
 Welcome to my GitHub profile! 🚀 I'm passionate about **Artificial Intelligence**, **Data Science**, and **Web Development**.
 
